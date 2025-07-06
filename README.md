@@ -1,1 +1,1 @@
-# Chat-App-React
+# Chat-App-React using React and MERN Stack
